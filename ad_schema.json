@@ -1,0 +1,36 @@
+{
+    "domain": "xyz.com",
+    "groups": [
+        {
+            "name": "Employees"
+
+        }
+    ],
+
+
+    "users": [
+
+            {
+               "name": "Ryan Pizzo", 
+               "password": "P@ssw0rd789",
+               "groups": [
+                          "Employees"       
+                        ]
+            },
+            {
+                "name": "Manfred Dewsbury", 
+                "password": "P@ssw0rdABC",
+                "groups": [
+                           "Employees"       
+                         ]
+             }
+            
+        ]
+    
+    }
+
+
+
+
+
+
